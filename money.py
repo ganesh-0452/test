@@ -1,2 +1,2 @@
-print(I am hungry)
-print(I am s)
+print("I am hungry")
+print("I am s"")
